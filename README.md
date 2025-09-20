@@ -1,6 +1,5 @@
 # Global-CO2-Emissions
-Create an interactive dashboard showcasing 250 years of CO2 emissions data.
-
+This data set includes global fossil fuel emissions data from 1750 - 2021 by country, paired with population data for the same year/country detail. Historical CO2 datapoints are estimated based off of the industrial factors reflected in each time period.
 
 # Profile & QA the data
 The first objective is to explore and profile the data while optimizing the source for visualization, including filtering out records that aren't at the country level, updating field types, and creating a parameter.
