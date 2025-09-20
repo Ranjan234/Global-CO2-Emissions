@@ -40,7 +40,18 @@ Low emitters:
   
 - United States: Lower population but still very high emissions (~5,007 Mt), meaning emissions per capita are disproportionately large.
   
+<h1> 3. CO₂ Emissions Global Share by Year (Line Graph)</h1>
+
+- The chart shows how global shares of CO₂ emissions have shifted over time:
+
+- China’s share has sharply increased in recent decades, overtaking traditional emitters.
+
+- United States & Europe: Their share has gradually declined, though absolute emissions are still high.
+
+- Emerging economies (India, Southeast Asia) are slowly rising in contribution.
+  
 - India: Large population (~1.4B) but lower per capita emissions, total ~2,710 Mt.
   
 - Russia: Moderate population, but very high emissions (~1,756 Mt), indicating high industrial and energy dependence. 3. CO₂ Emissions Global Share by Year (Line Graph) The chart shows how global shares of CO₂ emissions have shifted over time: China’s share has sharply increased in recent decades, overtaking traditional emitters.
+ 
 - United States & Europe: Their share has gradually declined, though absolute emissions are still high. Emerging economies (India, Southeast Asia) are slowly rising in  contribution.
